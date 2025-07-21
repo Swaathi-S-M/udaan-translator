@@ -1,3 +1,4 @@
+
 #  Udaan Translator
 
 Udaan Translator is a fast, lightweight multilingual translation web service built using **FastAPI** and **deep-translator**. It allows users to translate text between multiple languages through both a **web interface** and a **REST API**.
@@ -29,6 +30,8 @@ Udaan Translator is a fast, lightweight multilingual translation web service bui
 -  Health-check endpoint
 -  Easy to test using `curl`, Postman, or browser
 -  Designed for extensibility with database support (SQLAlchemy ready)
+
+
 
 
 
